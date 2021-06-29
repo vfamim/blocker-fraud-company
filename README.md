@@ -1,2 +1,2 @@
 # blocker-fraud-company
-Predicting frauds transactions
+Predicting fraud transactions
